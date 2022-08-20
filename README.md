@@ -11,4 +11,6 @@
 
 **4-** Page View Time Series Visualizer - [View Code](https://github.com/Sterari/FreeCodeCamp-Data-Analysis-with-Python/blob/main/Page%20View%20Time%20Series%20Visualizer/time_series_visualizer.py)
 
-**5-** Sea Level Predictor - To Do
+**5-** Sea Level Predictor - [View Code](https://github.com/Sterari/FreeCodeCamp-Data-Analysis-with-Python/blob/main/Sea%20Level%20Predictor/sea_level_predictor.py)
+
+![certificate image](https://github.com/Sterari/FreeCodeCamp-Data-Analysis-with-Python/blob/main/Data%20Analysis%20with%20Python%20Certificate.png)
